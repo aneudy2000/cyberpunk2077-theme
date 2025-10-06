@@ -12,11 +12,12 @@ A VS Code theme inspired by CD projekt RED's Cyberpunk 2077
 
 ## Install using Git
 
-`cd ~/.vscode/extensions/`
-`gh repo clone jwsandeman/cyberpunk2077-theme`
-`cd cyberpunk2077-theme`
-`npm install`
-`npm run build`
+1. Clone repo `gh repo clone jwsandeman/cyberpunk2077-theme`
+2. In vscode, click on extensions -> 3 dots -> Install from VSIX
+3. Browse an dchoose VSIX in download repo files.
+
+
+Click on extensions
 
 Now you can access the theme from the Color Theme picker with File > Preferences > Color Theme. (Code > Preferences > Color Theme on macOS).
 
